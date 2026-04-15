@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:https://technology-enthusiast-he.github.io/it-watch-market-01/sitemap.xml
